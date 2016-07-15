@@ -53,7 +53,7 @@ shinyUI(fluidPage(
                                   "横向最大加速度变化率" = "LateralAccRate",
                                   "平均转向值" = "Steering",
                                   "平均转向变化率" = "SteeringRate",
-                                  "车道平均距离" = "Laneoffset",
+                                  "车道偏移平均距离" = "Laneoffset",
                                   "TLC中位值" = "TLC",
                                   "TLC小于1s的比例" = "TLCRate"),
                    selected = "MaxLongitudinalSpeed"),
